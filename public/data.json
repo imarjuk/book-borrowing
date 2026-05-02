@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "The Lost Kingdom",
+    "author": "Emma Roberts",
+    "description": "An adventurous story of a hidden kingdom, ancient secrets, and brave heroes.",
+    "category": "Story",
+    "available_quantity": 8,
+    "image_url": "https://picsum.photos/400/600?random=1"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Mastery",
+    "author": "David Miller",
+    "description": "A complete guide to modern JavaScript development for beginners and professionals.",
+    "category": "Tech",
+    "available_quantity": 12,
+    "image_url": "https://picsum.photos/400/600?random=2"
+  },
+  {
+    "id": 3,
+    "title": "Mysteries of Space",
+    "author": "Sophia Clark",
+    "description": "Explore galaxies, black holes, and the wonders of the universe.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://picsum.photos/400/600?random=3"
+  },
+  {
+    "id": 4,
+    "title": "Whispers in the Forest",
+    "author": "Olivia Green",
+    "description": "A magical tale of friendship, courage, and secrets hidden deep in the woods.",
+    "category": "Story",
+    "available_quantity": 10,
+    "image_url": "https://picsum.photos/400/600?random=4"
+  },
+  {
+    "id": 5,
+    "title": "React for Professionals",
+    "author": "Michael Scott",
+    "description": "Learn advanced React concepts, hooks, state management, and optimization.",
+    "category": "Tech",
+    "available_quantity": 15,
+    "image_url": "https://picsum.photos/400/600?random=5"
+  },
+  {
+    "id": 6,
+    "title": "Quantum Discoveries",
+    "author": "Daniel Brown",
+    "description": "A fascinating journey into quantum mechanics and modern physics.",
+    "category": "Science",
+    "available_quantity": 7,
+    "image_url": "https://picsum.photos/400/600?random=6"
+  },
+  {
+    "id": 7,
+    "title": "The Silent River",
+    "author": "Charlotte Evans",
+    "description": "A touching story about family, memories, and second chances.",
+    "category": "Story",
+    "available_quantity": 9,
+    "image_url": "https://picsum.photos/400/600?random=7"
+  },
+  {
+    "id": 8,
+    "title": "Node.js Essentials",
+    "author": "James Wilson",
+    "description": "Build scalable backend applications using Node.js and Express.",
+    "category": "Tech",
+    "available_quantity": 11,
+    "image_url": "https://picsum.photos/400/600?random=8"
+  },
+  {
+    "id": 9,
+    "title": "The Human Genome",
+    "author": "Sarah Johnson",
+    "description": "Discover the science behind DNA, genetics, and human evolution.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://picsum.photos/400/600?random=9"
+  },
+  {
+    "id": 10,
+    "title": "Moonlight Diaries",
+    "author": "Grace Anderson",
+    "description": "A heartfelt story of love, dreams, and unexpected journeys.",
+    "category": "Story",
+    "available_quantity": 13,
+    "image_url": "https://picsum.photos/400/600?random=10"
+  },
+  {
+    "id": 11,
+    "title": "AI and Future Computing",
+    "author": "Robert Taylor",
+    "description": "An introduction to artificial intelligence, machine learning, and future technologies.",
+    "category": "Tech",
+    "available_quantity": 14,
+    "image_url": "https://picsum.photos/400/600?random=11"
+  },
+  {
+    "id": 12,
+    "title": "Secrets of the Ocean",
+    "author": "Emily White",
+    "description": "Dive into marine biology, underwater ecosystems, and ocean exploration.",
+    "category": "Science",
+    "available_quantity": 8,
+    "image_url": "https://picsum.photos/400/600?random=12"
+  }
+]
