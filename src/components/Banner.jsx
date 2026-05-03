@@ -1,5 +1,6 @@
 import { Button } from "@heroui/react";
 import Link from "next/link";
+import { FaArrowRight } from "react-icons/fa";
 
 const Banner = () => {
   return (
@@ -18,7 +19,7 @@ const Banner = () => {
           <div className="flex gap-4">
             <Link href="#">
               <Button className="bg-linear-to-r from-pink-500 via-purple-500 bg-red-500">
-                Browse Now
+                Browse Now <FaArrowRight />
               </Button>
             </Link>
 
