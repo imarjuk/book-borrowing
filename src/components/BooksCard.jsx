@@ -6,7 +6,7 @@ const BooksCard = ({book}) => {
     const {title, image_url, author, category} = book;
 
     return (
-        <Card className="border my-10 rounded-xl">
+        <Card className="border rounded-xl">
             <div className="relative w-full aspect-square">
                 <Image
                 src={image_url}
@@ -22,7 +22,7 @@ const BooksCard = ({book}) => {
             </div>
             <div>
                 
-                <Button variant="secondary" >View Details</Button>
+                <Button variant="outline" className={'w-full'} >View Details</Button>
             </div>
             
         </Card>

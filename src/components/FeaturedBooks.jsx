@@ -8,7 +8,7 @@ const FeaturedBooks = async() => {
    
     return (
         <div>
-          <h1 className="text-4xl font-bold text-center mx-auto">Featured Books</h1>
+          <h1 className="text-4xl font-bold text-center  my-10 mx-auto">Featured Books</h1>
 
           <div className="grid grid-cols-1 md:grid-cols-4 gap-5">
             {
