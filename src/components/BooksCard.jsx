@@ -1,6 +1,7 @@
 import { Button, Card, Chip } from "@heroui/react";
 import { Bitcount_Ink } from "next/font/google";
 import Image from "next/image";
+import Link from "next/link";
 
 const BooksCard = ({book}) => {
     const {title, image_url, author, category} = book;
@@ -22,7 +23,11 @@ const BooksCard = ({book}) => {
             </div>
             <div>
                 
-                <Button variant="outline" className={'w-full'} >View Details</Button>
+               <Link href={`/all-books/${book.id}`}>
+                <Button variant="outline" 
+                className={'w-full'} >
+                    View Details</Button>
+               </Link>
             </div>
             
         </Card>
